@@ -9,10 +9,10 @@ I build **responsive web applications** and create **data-driven insights** usin
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML5, CSS3, Bootstrap, Responsive Design  
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Responsive Design  
 **Data Analytics:** Python, Pandas, NumPy, Power BI, Power Query  
 **Machine Learning:** Scikit-learn, Predictive Modeling  
-**Tools:** Git, Jupyter Notebook, Excel
+**Tools:** Git, Google Colab, Excel
 
 ---
 
