@@ -9,9 +9,8 @@ I build **responsive web applications** and create **data-driven insights** usin
 
 ## 🛠 Tech Stack
 **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React native, Responsive Design  
-**Language:** Python, Java, MySQL, C, C++
+**Language:** Python, Java, MySQL, C, C++  
 **Data Analytics:** Pandas, NumPy, Power BI, Power Query  
-**Machine Learning:** Scikit-learn, Predictive Modeling  
 
 ---
 
